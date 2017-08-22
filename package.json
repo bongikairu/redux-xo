@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "redux": "^3.7.2"
+  },
+  "name": "xo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
